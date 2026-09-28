@@ -1,1 +1,2 @@
 "Starting point for lab 2" 
+" Hi welcome to git hub lab"
